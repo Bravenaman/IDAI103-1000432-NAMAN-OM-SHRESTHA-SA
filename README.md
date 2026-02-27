@@ -104,11 +104,11 @@ This improves usability by preventing information overload.
 
 ## � App Screenshots
 
-![Screenshot 1](Screenshot/image.png)
-![Screenshot 2](Screenshot/image%20copy.png)
-![Screenshot 3](Screenshot/image%20copy%202.png)
-![Screenshot 4](Screenshot/image%20copy%203.png)
-![Screenshot 5](Screenshot/image%20copy%204.png)
+![Screenshot 1](Screenshot/image1.png)
+![Screenshot 2](Screenshot/image2.png)
+![Screenshot 3](Screenshot/image3.png)
+![Screenshot 4](Screenshot/image4.png)
+![Screenshot 5](Screenshot/image5.png)
 
 ---
 
