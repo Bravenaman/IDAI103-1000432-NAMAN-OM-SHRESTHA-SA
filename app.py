@@ -5,7 +5,7 @@ import streamlit as st
 # -------------------------------------------------
 st.set_page_config(page_title="CoachBot AI", page_icon="🏆", layout="wide")
 
-st.title("🏆 CoachBot AI – Virtual Sports Performance System")
+st.title("🏆 Next Gen Sports Lab – Virtual Sports Performance System")
 st.markdown("Elite-level personalized training for young athletes (13–18).")
 
 # -------------------------------------------------
