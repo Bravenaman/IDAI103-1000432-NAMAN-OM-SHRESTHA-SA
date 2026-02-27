@@ -1,5 +1,5 @@
 
-# 🏆 CoachBot AI — AI-Powered Smart Fitness Assistant
+# 🏆 Next Gen Sports Lab — AI-Powered Smart Fitness Assistant
 
 **Student Name:** NAMAN OM SHRESTHA
 
